@@ -28,7 +28,7 @@ The website includes:
 
 Visit the live website here:
 
-**🔗 Live Demo:** https://YOUR-USERNAME.github.io/my-portfolio
+**🔗 Live Demo:**(https://enojohn5050-cmd.github.io/my-potfolio/)
 
 
 ## 🛠️ Technologies Used
